@@ -3,4 +3,6 @@ The repository "airbnb_analysis" is a collection of files and resources that foc
 
 *Code Folder* : contains the EDA code.
 
-*Dics* : contains the Airbnb Report.
+*VisualizationPlots folder* : contains the all Visualization Plots images. 
+
+*Docs* : contains the Airbnb Report.
